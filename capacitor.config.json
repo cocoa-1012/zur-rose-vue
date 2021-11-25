@@ -1,0 +1,6 @@
+{
+  "appId": "com.zurrosecare.app",
+  "appName": "zur-rose",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
